@@ -1,3 +1,3 @@
-### Hi there 👋
+### Sup, i'm working on some quest 2 mods and some other things
 
-![Visitor Count](https://profile-counter.glitch.me/whitecodec/count.svg)
+### Git Visits: ![Visitor Count](https://profile-counter.glitch.me/whitecodec/count.svg)
